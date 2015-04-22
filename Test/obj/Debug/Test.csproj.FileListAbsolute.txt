@@ -1,0 +1,7 @@
+c:\Users\jweiler\documents\visual studio 2013\Projects\UnitTest\Test\bin\Debug\Test.dll
+c:\Users\jweiler\documents\visual studio 2013\Projects\UnitTest\Test\bin\Debug\Test.pdb
+c:\Users\jweiler\documents\visual studio 2013\Projects\UnitTest\Test\bin\Debug\UnitTest.exe
+c:\Users\jweiler\documents\visual studio 2013\Projects\UnitTest\Test\bin\Debug\UnitTest.pdb
+c:\Users\jweiler\documents\visual studio 2013\Projects\UnitTest\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\Users\jweiler\documents\visual studio 2013\Projects\UnitTest\Test\obj\Debug\Test.dll
+c:\Users\jweiler\documents\visual studio 2013\Projects\UnitTest\Test\obj\Debug\Test.pdb
